@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/cupv10k-runtime.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/icu4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/org.eclipse.wst.xml.xpath2.processor_1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/resolver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/serializer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/xercesSamples.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marco/ownCloud/Projekte/Java-Bibliotheken/xerces-2_11_0-xml-schema-1.1-beta/build/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
